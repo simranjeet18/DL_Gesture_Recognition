@@ -1,4 +1,4 @@
-# DL_Gesture_Recognition
+# Gesture Recognition
 
 ## Problem Statement 
 
